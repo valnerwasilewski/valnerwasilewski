@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my Github repository! 👋
+
+I'm Valner, 26 y/o and from Guaratuba/PR.
+Nowdays I'm acting as Tech Recruiter for a startup in Bahia/Brazil.
+And studing data and development, stacks such as javascript and python.
 
 <!--
 **valnerwasilewski/valnerwasilewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
