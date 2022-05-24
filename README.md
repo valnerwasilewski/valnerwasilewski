@@ -1,7 +1,7 @@
 ### Welcome to my Github repository! 👋
 
 I'm Valner, 26 y/o and from Guaratuba/PR.
-Nowdays I'm acting as Tech Recruiter for a startup in Bahia/Brazil.
+Nowdays I'm working as Tech Recruiter for a startup in Bahia/Brazil.
 And studing data and development, stacks such as javascript and python.
 
 <!--
