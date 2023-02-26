@@ -1,3 +1,5 @@
+<img align="left" src="[https://media.tenor.com/nVN3rFQ9JacAAAAC/anime-aesthetic.gif](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif)" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" />
+
 ![Data Science header](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif "Data Science header")
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Valner.;Welcome+to+my+Data+Science+repository!+👋)](https://git.io/typing-svg)
 
