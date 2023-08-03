@@ -1,22 +1,22 @@
-<img align="left" src="[https://media.tenor.com/nVN3rFQ9JacAAAAC/anime-aesthetic.gif](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif)" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" />
+<img align="left" src="[https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif)" alt="Unfortunately I didn't find the picture's author, feel to open a pull request if you know." />
 
 ![Data Science header](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif "Data Science header")
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Valner.;Welcome+to+my+Data+Science+repository!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Valner.;Welcome+to+my+Data+Science+repository!+👋 ;)](https://git.io/typing-svg)
 
 ------------
 
-- 🎓 I have an undergraduate in **Environmental Managment **by Federal University of Paraná (UFPR)
+- 🎓 I have an undergraduate in **Environmental Managment** by Federal University of Paraná (UFPR)
 - 🙋‍♂️ Nowdays I work as **Tech Recruiter** at INTERA 
 - 🎲 I'm working hard to become a **Data Scientist**
 - 🌱 I'm learning *Python, SQL, Statistic and Machine Learning*.
 - 📧 Do you want to get in touch? Please, write me an email: valnerwasilewski@gmail.com
 
 ---
-#### Softwares e Ferramentas
+#### Softwares and Tools
 Python Pandas Google Colab, Jupyter Notebook, Numpy, Matplotlib
 
 ---
-#### Métricas Github
+#### Github Metrics
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=valnerwasilewski&left_color=gray&right_color=dodgerblue)
 
