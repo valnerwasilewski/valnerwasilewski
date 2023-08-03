@@ -19,7 +19,7 @@ Python Pandas Google Colab, Jupyter Notebook, Numpy and Matplotlib
 ---
 #### Github Metrics
 
-[![visitors]![](https://komarev.com/ghpvc/?username=valnerwasilewski&color=61dafb)]
+(https://komarev.com/ghpvc/?username=valnerwasilewski&color=61dafb)
 
 
 ---
