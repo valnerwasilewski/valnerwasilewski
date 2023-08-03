@@ -1,7 +1,6 @@
-<img align="left" src="[https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif)" alt="Unfortunately I didn't find the picture's author, feel to open a pull request if you know." />
 
-![Data Science header](https://f8n-production.s3.amazonaws.com/creators/profile/qigfy9rck-ezgif-com-gif-maker-16-gif-dmbjsd.gif "Data Science header")
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Valner.;Welcome+to+my+Data+Science+repository!+👋 ;)](https://git.io/typing-svg)
+![Data Science header](/img/data.gif/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=5100&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Valner.;Welcome+to+my+Data+Science+repository!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ------------
 
@@ -9,16 +8,16 @@
 - 🙋‍♂️ Nowdays I work as **Tech Recruiter** at INTERA 
 - 🎲 I'm working hard to become a **Data Scientist**
 - 🌱 I'm learning *Python, SQL, Statistic and Machine Learning*.
-- 📧 Do you want to get in touch? Please, write me an email: valnerwasilewski@gmail.com
+- 📧 Do you want to get in touch? Please, write me an email: __valnerwasilewski@gmail.com__
 
 ---
 #### Softwares and Tools
-Python Pandas Google Colab, Jupyter Notebook, Numpy, Matplotlib
+Python Pandas Google Colab, Jupyter Notebook, Numpy and Matplotlib
 
 ---
 #### Github Metrics
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=valnerwasilewski&left_color=gray&right_color=dodgerblue)
+![visitors]![](https://komarev.com/ghpvc/?username=valnerwasilewski&color=61dafb)
 
 
 ---
