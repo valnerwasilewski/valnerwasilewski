@@ -1,6 +1,8 @@
 <div align="center">
   <img src="/img/data.gif" alt="Unfortunately I didn't find the picture's author, feel to open a pull request if you know."/>
-<br>
+</div>
+
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5200&pause=1000&center=true&width=500&lines=Hi%2C+there!+I'm+Valner.++%F0%9F%98%8A;Welcome+to+my+Data+Science+repository!+%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
 
