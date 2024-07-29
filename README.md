@@ -7,14 +7,19 @@
 ------------
 
 - 🎓 I have an undergraduate in **Environmental Managment** by Federal University of Paraná (UFPR)
-- 🙋‍♂️ Nowdays I work as **Tech Recruiter** at INTERA 
-- 🎲 I'm working hard to become a **Data Scientist**
+- 📓 Currently studying an undergraduate in **Data Science** by Estácio de Sá University 
+- 🙋‍♂️ Nowdays I work as **Tech Support Junior** at Multilogin 
+- 🎲 Working hard to become a **Data Scientist**
 - 🌱 I'm learning *Python, SQL, Statistic and Machine Learning*.
+- 🍀 Due to my work as Tech Support, I'm learning *Python, Selenium, API, automation and web scrapping*.
 - 📧 Do you want to get in touch? Please, write me an email: __valnerwasilewski@gmail.com__
 
 ---
 #### Softwares and Tools
-Python Pandas Google Colab, Jupyter Notebook, Numpy and Matplotlib
+- Python and SQL
+- Selenium and Puppeteer 
+- Google Colab, Jupyter Notebook, VSCode
+- Libraries Pandas, Numpay, Matplotlib, Seaborn, BeautifulSoup
 
 ---
 #### Github Metrics
