@@ -11,7 +11,7 @@
 - 🙋‍♂️ Nowdays I work as **Tech Support Junior** at Multilogin 
 - 🎲 Working hard to become a **Data Scientist**
 - 🌱 I'm learning *Python, SQL, Statistic and Machine Learning*.
-- 🍀 Due to my work as Tech Support, I'm learning *Python, Selenium, API, automation and web scrapping*.
+- 🍀 Due to my work as Tech Support, I'm learning *Python, Selenium, Playwright, API, Docker, automation and web scrapping*.
 - 📧 Do you want to get in touch? Please, write me an email: __valnerwasilewski@gmail.com__
 
 ---
