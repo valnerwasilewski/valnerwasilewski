@@ -8,10 +8,10 @@
 
 - 🎓 I have an undergraduate in **Environmental Managment** by Federal University of Paraná (UFPR)
 - 📓 Currently studying an undergraduate in **Data Science** by Estácio de Sá University 
-- 🙋‍♂️ Nowadays I work as **Tech Support Junior** at Multilogin 
+- 🙋‍♂️ Nowadays I work as **Middle Techical Support Engineer** at Multilogin 
 - 🎲 Working hard to become a **Data Scientist**
 - 🌱 I'm learning *Python, SQL, Statistic and Machine Learning*.
-- 🍀 Due to my work as Tech Support, I'm learning *Python, Selenium, Playwright, API, Docker, automation and web scrapping*.
+- 🍀 Due to my work as Tech Support, I'm learning *Python, Selenium, API, Docker, automation and web scrapping*.
 - 📧 Do you want to get in touch? Please, write me an email: __valnerwasilewski@gmail.com__
 
 ---
